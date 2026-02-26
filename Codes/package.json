@@ -1,0 +1,11 @@
+{
+  "name": "three-building-playground",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "^0.165.0"
+  },
+  "scripts": {
+    "serve": "npx http-server -c-1 -p 5173 ."
+  }
+}
